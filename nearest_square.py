@@ -1,4 +1,4 @@
-# Program to complute the nearest square to a given number
+# Program to complute the nearest square to a given number 
 
 given_number = 56
 
